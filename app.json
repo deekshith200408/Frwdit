@@ -43,20 +43,9 @@
     },
     "CAPTION": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
-      "required": "✪⍟ ━━━━◈🅤🅜🅡◈━━━━ ⍟✪
+      "required": false 
 
-➽𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ➟@UNI_MOVIES_BOX 
-
-➽𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ➟@UMR_FILMBOX
-
-➽𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ➟@UMR_KAN_MOVIES
-
-➽🅖🅡🅞🅤🅟 ➟@UM_Requests 
-
-☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻
-
-✰✰═══❖⛨°🅤🅜🅡°⛨❖═══✰✰"
-    },
+},
     "FILTER_TYPE": {
       "description": "Type Of filters {document , audio , photo , video , animation , (empty = forward all kind of messages)}",
       "value": "document"
