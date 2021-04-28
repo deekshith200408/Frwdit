@@ -24,4 +24,4 @@ class Translation(object):
   ABOUT_TXT = """<b><u>My Info</b></u>
 
 <b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>ᴅᴇᴇᴋsʜɪᴛʜ ɢᴏᴡᴅᴀs</code>
+<b>Credit :</b> <code>DEEKSHITH GOWDAS</code>
