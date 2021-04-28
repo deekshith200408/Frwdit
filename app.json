@@ -23,7 +23,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": ""
+      "value": "1567310122:AAG_XrJbKgAZvCieeRchxTaXiYr2oFu5MoA"
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
@@ -43,7 +43,19 @@
     },
     "CAPTION": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
-      "required": false
+      "required": "✪⍟ ━━━━◈🅤🅜🅡◈━━━━ ⍟✪
+
+➽𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ➟@UNI_MOVIES_BOX 
+
+➽𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ➟@UMR_FILMBOX
+
+➽𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ➟@UMR_KAN_MOVIES
+
+➽🅖🅡🅞🅤🅟 ➟@UM_Requests 
+
+☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻
+
+✰✰═══❖⛨°🅤🅜🅡°⛨❖═══✰✰"
     },
     "FILTER_TYPE": {
       "description": "Type Of filters {document , audio , photo , video , animation , (empty = forward all kind of messages)}",
