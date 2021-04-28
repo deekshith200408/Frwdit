@@ -15,11 +15,11 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "2980496"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "9415a61fedcc0f00f33667ca46e577a3"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
@@ -27,15 +27,15 @@
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
-      "value": ""
+      "value": "-1001255795497"
     },
     "FROM_CHANNEL": {
       "description": "enter Channel username Eg:- @abcdefghijk",
-      "value": ""
+      "value": "-1001153724832"
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": ""
+      "value": "1086432320"
     },
     "SKIP_NO": {
       "description": "Enter File Skiping Number",
