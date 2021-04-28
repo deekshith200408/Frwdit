@@ -23,5 +23,5 @@ class Translation(object):
 * /about - <b>About Me</b>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 
-<b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>DEEKSHITH GOWDAS</code>
+<b>Name :</b> <code>AUTO FORWORDER BOT BY DEEKS</code>
+<b>Credit :</b> <code>DEEKSHITH GOWDAS</code>"""
