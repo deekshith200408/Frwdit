@@ -5,9 +5,11 @@ class Translation(object):
   START_TXT = """<b> 𝐻𝐼 {}!!</b>
 <i>𝐼'𝑚 𝑆𝑖𝑚𝑝𝑙𝑒 𝐴𝑢𝑡𝑜 𝑓𝑖𝑙𝑒 𝐹𝑜𝑟𝑤𝑎𝑟𝑑 𝐵𝑜𝑡
 
-𝑇𝒉𝑖𝑠 𝐵𝑜𝑡 𝑓𝑜𝑟𝑤𝑎𝑟𝑑 𝑎𝑙𝑙 𝑓𝑖𝑙𝑒𝑠 𝑡𝑜 𝑂𝑛𝑒 𝑃𝑢𝑏𝑙𝑖𝑐 𝑐𝒉𝑎𝑛𝑛𝑒𝑙 𝑡𝑜 𝑌𝑜𝑢𝑟 𝑃𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝑐𝒉𝑎𝑛𝑛𝑒𝑙
+𝑇𝒉𝑖𝑠 𝐵𝑜𝑡 𝑓𝑜𝑟𝑤𝑎𝑟𝑑 𝑎𝑙𝑙 𝑓𝑖𝑙𝑒𝑠 𝑡𝑜 𝑂𝑛𝑒 𝑃𝑢𝑏𝑙𝑖𝑐 𝑐𝒉𝑎𝑛𝑛𝑒𝑙 𝑡𝑜 𝑌𝑜𝑢𝑟 𝑃𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝑐𝒉𝑎𝑛𝑛𝑒𝑙.
 
-𝑀𝑜𝑟𝑒 𝑑𝑒𝑡𝑎𝑖𝑙𝑠/help</i>"""
+     😎🏅𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐛𝐲 =» @Deeks_04_8...
+
+𝑀𝑜𝑟𝑒 𝑑𝑒𝑡𝑎𝑖𝑙𝑠 /help</i>"""
   CAPTION = "<code>{}</code>\n\n" + str(Config.CAPTION)
   HELP_TXT = """<b>Follow These Steps!!</b>
 <b>• Currectly fill your Heroku Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
@@ -24,4 +26,4 @@ class Translation(object):
   ABOUT_TXT = """<b><u>My Info</b></u>
 
 <b>Name :</b> <code>AUTO FORWORDER BOT BY DEEKS</code>
-<b>Credit :</b> <code>DEEKSHITH GOWDAS</code>"""
+<b>Credit :</b> <code>Derek's bots</code>"""
