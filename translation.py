@@ -12,18 +12,18 @@ class Translation(object):
 
 
   CAPTION = "<code>{}</code>\n\n" + str(Config.CAPTION)
-  HELP_TXT = """<b>⚡Follow These Steps!!💎</b>
-<b>♻️ Currectly fill your Heroku Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
-<b>♻️ Then give admin permission in your personal telegram channel</b>
-<b>♻️ Then send any message In your personal telegram channel</b>
-<b>♻️ Then use /run command in your bot</b>
+  HELP_TXT = """⚡ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ sᴛᴇᴘs!!😎
+♻️ ᴄᴜʀʀᴇᴄᴛʟʏ ғɪʟʟ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴄᴏɴғɪɢ  - ғʀᴏᴍ_ᴄʜᴀɴɴᴇʟ ᴀɴᴅ - ᴛᴏ_ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴠᴀʀs.
+♻️ ᴛʜᴇɴ ɢɪᴠᴇ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ ɪɴ ʏᴏᴜʀ ᴘᴇʀsᴏɴᴀʟ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ.
+♻️ ᴛʜᴇɴ sᴇɴᴅ ᴀɴʏ ᴍᴇssᴀɢᴇ ɪɴ ʏᴏᴜʀ ᴘᴇʀsᴏɴᴀʟ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ.
+♻️ ᴛʜᴇɴ ᴜsᴇ /run ᴄᴏᴍᴍᴀɴᴅ ɪɴ ʏᴏᴜʀ ʙᴏᴛ.
 
-<b><u>Available Command</b></u>
+⚔️ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅ⚔️
 
-💎 /start - <b>Bot Alive</b>
-💎 /help - <b>more help</b>
-💎 /run - <b>start forward</b>
-💎 /about - <b>About Me</b>"""
+💎 /start - ʙᴏᴛ ᴀʟɪᴠᴇ.
+💎 /help - ᴍᴏʀᴇ ʜᴇʟᴘ.
+💎 /run - sᴛᴀʀᴛ ғᴏʀᴡᴀʀᴅ.
+💎 /about - ᴀʙᴏᴜᴛ ᴍᴇ."""
   ABOUT_TXT = """<b><u>👔MY INFO</b></u>
 
 <b>ʙᴏᴛs ɴᴀᴍᴇ :</b> <code>ᴜᴍʀ ғᴏʀᴡᴏʀᴅᴇʀ ʙᴏᴛ</code>
