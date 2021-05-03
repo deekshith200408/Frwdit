@@ -31,7 +31,7 @@
     },
     "FROM_CHANNEL": {
       "description": "enter Channel username Eg:- @abcdefghijk",
-      "value": "-1001153724832"
+      "value": ""
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
