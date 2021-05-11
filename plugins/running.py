@@ -18,11 +18,11 @@ async def run(bot, message):
     if str(message.from_user.id) not in Config.OWNER_ID:
         return
     buttons = [[
-        InlineKeyboardButton('🚫 STOP', callback_data='stop_btn')
+        InlineKeyboardButton(' 𝙲𝙻𝙾𝚂𝙴 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴', callback_data='stop_btn')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     m = await bot.send_message(
-        text="<i>File Forwording Started😉</i>",
+        text="<i>🚀𝐅𝐢𝐥𝐞 𝐅𝐨𝐫𝐰𝐚𝐫𝐝𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.𝐒𝐭𝐚𝐲 𝐓𝐮𝐧𝐞𝐝 😉</i>",
         reply_markup=reply_markup,
         chat_id=message.chat.id
     )
@@ -57,7 +57,7 @@ async def run(bot, message):
     ]] 
     reply_markup = InlineKeyboardMarkup(buttons)
     await m.edit(
-        text=f"<u><i>Successfully Forwarded</i></u>\n\n<b>Total Forwarded Files:-</b> <code>{files_count}</code> <b>Files</b>\n<b>Thanks For Using Me❤️</b>",
+        text=f"<u><i>🛸𝐒𝐔𝐂𝐒𝐔𝐒𝐅𝐔𝐋𝐘 𝐅𝐎𝐑𝐖𝐎𝐑𝐃𝐄𝐃 𝐀𝐋𝐋 𝐓𝐎 𝐆𝐈𝐕𝐄𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋.</i></u>\n\n<b>𝚃𝙾𝚃𝙻𝙴 𝙵𝙾𝚁𝚆𝚁𝙳𝙴𝙳 𝙵𝙸𝙻𝙴𝚂 𝙸𝚂:-</b> <code>{files_count}</code> <b>Files</b>\n<b>𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙪𝙨𝙞𝙣𝙜 𝘿𝙀𝙀𝙆𝙎 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝙗𝙤𝙩❤️</b>",
         reply_markup=reply_markup
     )
         
