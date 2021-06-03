@@ -15,15 +15,15 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": "2980496"
+      "value": "2461443"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": "9415a61fedcc0f00f33667ca46e577a3"
+      "value": "8c9a7a069dc1869d2b3a383114ab6b41"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": "1567310122:AAG_XrJbKgAZvCieeRchxTaXiYr2oFu5MoA"
+      "value": "1567310122:dhjbjgvt"
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
@@ -31,11 +31,11 @@
     },
     "FROM_CHANNEL": {
       "description": "enter Channel username Eg:- @abcdefghijk",
-      "value": ""
+      "value": "547377238"
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": "1086432320"
+      "value": "1572909573"
     },
     "SKIP_NO": {
       "description": "Enter File Skiping Number",
@@ -52,7 +52,7 @@
     },
     "SESSION": {
       "description": "Pyrogram string Seccion https://replit.com/@JijinR/PyroSessionString",
-      "value": ""
+      "value": "gfcututcguctc"
     }
   },
   "formation": {
